@@ -1128,6 +1128,22 @@ progress {
     padding-top: 2rem;
   }
 
+  .video-container iframe {
+    width: 100%;
+    height: 100%;
+    
+  }
+
+.video-hola{
+  align-items: center;
+}
+
+.btn-servicios, .btn a{
+  align-items: center;
+  
+}
+  
+
   .row-cols-md-3 > * {
     flex: 0 0 auto;
     width: 33.3333333333%;
